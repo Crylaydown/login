@@ -8,7 +8,7 @@ function validate()
         return false;
     }
     else{
-        alert("Not goods login mo");
+        alert("Not goods login mo admin admin try mo hehe");
     }
 
 }
